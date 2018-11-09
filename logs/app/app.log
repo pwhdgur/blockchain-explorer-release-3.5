@@ -1,0 +1,40 @@
+[2018-11-01 01:33:53.282] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-11-01 01:33:53.299] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-11-01 01:33:53.364] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-11-01 01:33:53.364] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-11-01 01:33:53.418] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-11-01 01:33:53.418] [DEBUG] Query - name: decentralized-energy-network, version: 0.1.15, path: /tmp/businessnetwork118926-20693-1bq0jdh.v9za
+[2018-11-01 01:33:53.425] [DEBUG] Query - ===========================================
+[2018-11-01 01:33:53.425] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 18 12 20 75 24 df 1d 53 0f b3 0a 5f 1d ed c8 bc f6 2c 93 5c 5d 18 d5 3a dc ef e7 5f 91 4a 18 61 24 da 93 1a 20 f0 60 4b 49 f9 e2 90 d2 bf 63 2e 86 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-11-01 01:33:53.428] [DEBUG] Query - ===========================================
+[2018-11-01 01:33:53.435] [DEBUG] Query - ===========================================
+[2018-11-01 01:33:53.435] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 18 12 20 75 24 df 1d 53 0f b3 0a 5f 1d ed c8 bc f6 2c 93 5c 5d 18 d5 3a dc ef e7 5f 91 4a 18 61 24 da 93 1a 20 f0 60 4b 49 f9 e2 90 d2 bf 63 2e 86 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-11-01 01:33:53.435] [DEBUG] Query - ===========================================
+[2018-11-01 01:34:07.060] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:35:17.192] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:36:17.275] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:37:17.294] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:38:17.390] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:39:17.272] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:40:17.268] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:41:17.279] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:42:17.389] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:43:17.228] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:44:17.282] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:45:17.596] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:46:17.260] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:47:17.282] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:48:17.334] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]
+[2018-11-01 01:49:17.271] [DEBUG] platform - GetStatus All! [ { status: 'DOWN', server_hostname: 'peer0.org1.example.com' } ]

@@ -1,0 +1,12 @@
+postgres://hppoc:123qwe@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/10/31
+
+
+Please open web browser to access ：http://ec2-13-124-126-235.ap-northeast-2.compute.amazonaws.com:8080/
+
+
+pid is 26517
+
+
+Successfully received the block event[object Object]
